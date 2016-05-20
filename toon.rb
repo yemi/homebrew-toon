@@ -3,7 +3,7 @@ class Toon < Formula
   homepage "https://github.com/yemi/toon"
   url "https://github.com/yemi/toon/releases/download/v0.1.0/toon-0.1.0-osx"
   version "0.1.0"
-  sha256 "c9892949c3050785e75e8223bce723bad41eb88ce345efe409f64a2803a1e527"
+  sha256 "c9eaa16b202fae80b5fb2694657ecf42566538889ac8ca37aefbe8cb11876cc"
 
   def install
     mv "toon-#{version}-osx", "toon"
